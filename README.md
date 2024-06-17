@@ -6,7 +6,7 @@ Projeto realizado durante a Formação Front End T6 - ONE + Alura
 Nesse curso aprendi a construir uma aplicação de temporizador estilo Pomodoro, que auxilia o usuário a fazer pausas durante o estudo ou trabalho. 
 O projeto também tem a opção entre ligar ou desligar a música ambiente, além de emitir um alerta indicando o final do tempo escolhido.
 
-<p>Deploy: https://alura-fokus-joana-tav.vercel.app/</p>
+<p>Deploy: https://joanatav.github.io/alura-Fokus-JoanaTav/ </p>
 
 <h2>Preview 👀 </h2>
 
