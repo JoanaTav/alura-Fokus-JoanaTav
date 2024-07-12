@@ -1,6 +1,6 @@
 <h1> Alura Fokus </h1>
 
-Projeto realizado durante a Formação Front End T6 - ONE + Alura
+Projeto realizado durante a Formação Front End T6 - ONE Oracle + Alura
 <p>JavaScript: manipulando elementos no DOM</p>
 
 Nesse curso aprendi a construir uma aplicação de temporizador estilo Pomodoro, que auxilia o usuário a fazer pausas durante o estudo ou trabalho. 
